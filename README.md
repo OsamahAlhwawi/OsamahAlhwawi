@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @OsamahAlhwawi
 - 👀 I’m interested in DS
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on JAVA PROJECTS
-- 📫 How to reach me? EMAIL : OSAMAHAL-HWAWI@HOTMAIL.COM
+- 🌱 I’m currently Working with WHAO.TECH
+- 💞️ I’m looking to collaborate on open soruce projects
+- 📫 How to reach me? EMAIL : Osamah.Alhwawi@whao.tech
 
 
 <!---
